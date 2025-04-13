@@ -5,11 +5,12 @@
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
-
-- 🧑‍💻 I'm a backend engineer.
-- 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+## 自己紹介
+*所属
+  *大阪公立大学　大学院　情報学研究科　基幹情報学専攻　システム情報学分野　[スマートプラットフォーム研究室](https://omusp.jp/)
+*取得資格
+  *応用情報技術者試験　合格
+  *TOEIC:705 (2024/03)
 <br>
 
 
